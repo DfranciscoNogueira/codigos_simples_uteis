@@ -11,7 +11,7 @@
 11     
 12      double valorReal = 291933.1233;
 13      float valorPercentual = 0.11f;
-14      intvalorInteiro = 82819912;
+14      int valorInteiro = 82819912;
 15     
 16      NumberFormat inteiro = NumberFormat.getInstance();  
 17      NumberFormat dinheiro = NumberFormat.getCurrencyInstance(localeBR);
